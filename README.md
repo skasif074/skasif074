@@ -19,14 +19,6 @@ I Create Products not projects!!
 
 ## 🛠️ Technical Skills
 
-### 🔌 Hardware & Embedded Systems
-- Arduino Uno / Nano  
-- DC Motors & Motor Drivers (L298N, L293D)  
-- IR Sensors, Ultrasonic Sensors  
-- Bluetooth Module (HC-05)  
-- Basic circuit design & troubleshooting  
-
----
 
 ### 💻 Software & Web Development
 - HTML, CSS, JavaScript  
@@ -34,17 +26,22 @@ I Create Products not projects!!
 - Backend basics (Node.js, Spring Boot)  
 - MongoDB, Firebase  
 - REST API concepts  
-- Git & GitHub  
-
----
+- Git & GitHub 
 
 ### 🤖 AI / ML 
 -  Machine Learning / Deep Learning concepts and Algorithms  
 -  NLP  
 -  Datasets & preprocessing  
-- AI integration in applications  
-
+- AI integration in applications
+  
 ---
+ ### 🔌 Hardware & Embedded Systems
+- Arduino Uno / Nano  
+- DC Motors & Motor Drivers (L298N, L293D)  
+- IR Sensors, Ultrasonic Sensors  
+- Bluetooth Module (HC-05)  
+- Basic circuit design & troubleshooting  
+
 
 ## 📚 Currently Learning
 - modern UI frameworks  
