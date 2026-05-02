@@ -3,19 +3,18 @@
 🚀 A passionate **technology enthusiast** interested in building at the intersection of  
 **hardware, software, and web technologies**.
 
-I enjoy learning by doing — whether it’s wiring circuits, writing backend logic, or designing clean user interfaces.
+I Create Products not projects!!
 
 ---
 
 ## 🧠 About Me
 
-- 🔧 Interested in **Electronics, Robotics & Embedded Systems**
 - 💻 Web developer with interest in both frontend and backend
-- 🤖 Hands-on experience with Arduino-based systems
-- 🌐 Curious about how software and hardware work together
 - 🎥 Video editing as a creative hobby
+- 🌐 Curious about how software and hardware work together
 - 📚 Constant learner, improving skills step by step
-
+- 🔧 Interested in **Electronics, Robotics & Embedded Systems**
+- 🤖 Hands-on experience with Arduino-based systems
 ---
 
 ## 🛠️ Technical Skills
