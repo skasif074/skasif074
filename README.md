@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Asif 
+# 👋 Hi, I'm SK Asif 
 
 🚀 A passionate **technology enthusiast** interested in building at the intersection of  
 **hardware, software, and web technologies**.
@@ -57,7 +57,7 @@ I Create Products not projects!!
 - Improve problem-solving through real projects
 - Grow as a **full-stack developer**
 - Explore AI integration at a practical level
-
+- To create & develop endless tools that solves a problem...
 ---
 
 ## 📫 Connect With Me
