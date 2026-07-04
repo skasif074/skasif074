@@ -51,7 +51,7 @@ Building Product is my passion
 
 ---
 
-## 🎯 Goals
+##  Goals
 
 - Build a strong **developer portfolio**
 - Improve problem-solving through real projects
