@@ -1,5 +1,76 @@
-# 💫 About Me:
-Hi, I'm SK Asif<br>A passionate technology enthusiast interested in building at the intersection of<br>hardware, software, and web technologies.<br><br>I Create Products not projects!! Building Product is my passion<br><br> About Me<br> Web developer with interest in both frontend and backend<br> Video editing as a creative hobby<br> Curious about how software and hardware work together<br>Constant learner, improving skills step by step<br> Interested in Electronics, Robotics & Embedded Systems<br> Hands-on experience with Arduino-based systems<br> Technical Skills<br> Software & Web Development<br>HTML, CSS, JavaScript<br>React.js (learning & building)<br>Backend basics (Node.js, Spring Boot)<br>MongoDB, Firebase<br>REST API concepts<br>Git & GitHub<br> AI / ML<br>Machine Learning / Deep Learning concepts and Algorithms<br>NLP<br>Datasets & preprocessing<br>AI integration in applications<br>Hardware & Embedded Systems<br>Arduino Uno / Nano<br>DC Motors & Motor Drivers (L298N, L293D)<br>IR Sensors, Ultrasonic Sensors<br>Bluetooth Module (HC-05)<br>Basic circuit design & troubleshooting<br>Currently Learning<br>modern UI frameworks<br>Backend development best practices<br>Clean code & project structure<br>Portfolio-focused development<br>Goals<br>Build a strong developer portfolio<br>Improve problem-solving through real projects<br>Grow as a full-stack developer<br>Explore AI integration at a practical level<br>To create & develop endless tools that solves a problem...<br>Connect With Me<br>Youtube : Dirisync<br>“Learning by building is the fastest way to grow.”
+# About Me
+
+Hi, I'm **SK Asif**
+
+A passionate technology enthusiast interested in building at the intersection of **hardware, software, and web technologies**.
+
+> **I Create Products, Not Projects!!**  
+> Building products is my passion.
+
+## About Me
+
+- Web developer with an interest in both frontend and backend
+- Video editing as a creative hobby
+- Curious about how software and hardware work together
+- Constant learner, improving skills step by step
+- Interested in Electronics, Robotics & Embedded Systems
+- Hands-on experience with Arduino-based systems
+
+## Technical Skills
+
+### Software & Web Development
+
+- HTML
+- CSS
+- JavaScript
+- React.js
+- Node.js
+- Spring Boot
+- MongoDB
+- Firebase
+- REST APIs
+- Git & GitHub
+
+### AI / ML
+
+- Machine Learning
+- Deep Learning
+- Machine Learning Algorithms
+- Natural Language Processing (NLP)
+- Datasets & Preprocessing
+- AI Integration in Applications
+
+### Hardware & Embedded Systems
+
+- Arduino Uno / Nano
+- DC Motors & Motor Drivers
+  - L298N
+  - L293D
+- IR Sensors
+- Ultrasonic Sensors
+- Bluetooth Module (HC-05)
+- Basic Circuit Design & Troubleshooting
+
+## Currently Learning
+
+- Modern UI Frameworks
+- Backend Development Best Practices
+- Clean Code & Project Structure
+- Portfolio-Focused Development
+
+## Goals
+
+- Build a strong developer portfolio
+- Improve problem-solving through real projects
+- Grow as a Full-Stack Developer
+- Explore AI integration at a practical level
+- Create and develop endless tools that solve real problems
+
+## Connect With Me
+
+### YouTube
+
+**Dirisync**
 
 
 ## 🌐 Socials:
